@@ -1,11 +1,45 @@
-<h1 align ="center">Hi👋, I'm Muhammad Shaikh</h1>
-<p align = "center">
-Computer science student at University of Houston
+<h1 align="center">Hi 👋, I'm Muhammad Shaikh</h1>
+<p align="center">
+  🎓 Computer Science Student at University of Houston <br>
+  💻 Passionate about building software and learning new technologies
 </p>
-<h2>🌐 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/muhammad-shaikh/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width = "50"></a>
-<h2>Languages</h2>
-<a href="https://isocpp.org/"><img src="https://camo.githubusercontent.com/33a88742a4c2007e41b467f181b79c7f68650b056f27ac9d38176995f68ad586/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d637070" width = "50"></a>
-<a href="https://www.python.org/"><img src="https://camo.githubusercontent.com/1594bb61e85b22739a2e8fa02ea68154f8969efc2f280a47f2602f99d5f0fc0e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7079" width = "50"></a>
-<a href="https://www.java.com/en/"><img src="https://camo.githubusercontent.com/9e02c0426b198d80f933ea32f92142c36ce703345e524caa6c7f38fa338aaf9f/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661" width = "50"></a>
-<a href="https://www.oracle.com/developer/javascript/"><img src="https://camo.githubusercontent.com/16edff857d92b7794d5f4241aa88b9db4463d06eb52b38624a5fe1cad1584e53/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width = "50"></a>
+
+---
+
+## 🌐 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-shaikh/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40"/>
+  </a>
+</p>
+
+---
+
+## 💻 Skills & Technologies
+
+### Programming Languages:
+<p>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" width="50" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" width="50" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="50" /></a>
+  <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="50" /></a>
+</p>
+
+### Tools & Frameworks:
+<p>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="50" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="50" /></a>
+  <a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react" width="50" /></a>
+</p>
+
+---
+
+## 🖼️ Visual Overview
+
+<img src="3397033e-c995-4778-b9be-2333aab3a6d9.png" width="700"/>
+
+---
+
+<!-- Optional: Add pinned projects or GitHub stats here -->
