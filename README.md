@@ -35,11 +35,3 @@
 </p>
 
 ---
-
-## 🖼️ Visual Overview
-
-<img src="3397033e-c995-4778-b9be-2333aab3a6d9.png" width="700"/>
-
----
-
-<!-- Optional: Add pinned projects or GitHub stats here -->
