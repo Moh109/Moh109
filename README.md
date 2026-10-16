@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **CS sophomore** at University of Houston  
+- 🎓 **CS Junior** at University of Houston  
 - 🌱 Currently learning **React** & **Flask**  
 - 💡 Interested in **AI, full-stack development, and machine learning**  
 - 🎯 **Goal for 2026:** Build impactful projects & land a tech internship  
